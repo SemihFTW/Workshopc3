@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Workshopc3",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Workshopc3"
+	}
+}

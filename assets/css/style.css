@@ -1,6 +1,81 @@
 @charset "UTF-8";
 
 #header {
-    background-image: url("http://jos.gluweb.nl/lessen/web/blue.png");
+    border:black double;
+    background-color: lightblue;
     height: 150px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; /*breedte van de header*/;
+    margin: 0 auto;
+    color: #000000;
+    font-size: 20px;
+    font-family: Arial;
+    line-height: 150px;
 }
+
+#content {
+    border:black double;
+    background-color: rgb(67, 64, 64);
+    height: 500px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; /*breedte van de content*/;
+    margin: 0 auto;
+    color: #ff0000;
+    font-size: 15px;
+    font-family: Arial;
+    line-height: 150px;
+    background-image: url(../img/photo-1543373014-cfe4f4bc1cdf.jpeg);
+    background-size: cover;
+}
+
+#footer {
+    border: dashed black;
+    background-color: crimson;
+    height: 150px;/*hoogte van de footer*/
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; /*breedte van de footer*/;
+    margin: 0 auto;
+    color: #150f0f;
+    font-size: 25px;
+    font-family: Arial;
+    line-height: 150px;
+    }
+    
+#lager {
+    border: dashed black;
+    background-color: crimson;
+    height: 150px;/*hoogte van de lager*/
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; /*breedte van de footer*/;
+    margin: 0 auto;
+    color: #150f0f;
+    font-size: 25px;
+    font-family: Arial;
+    line-height: 150px;
+}
+
+#lagerder {
+    border: dashed black;
+    background-color: crimson;
+    height: 150px;/*hoogte van de lager*/
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; /*breedte van de footer*/;
+    margin: 0 auto;
+    color: #150f0f;
+    font-size: 25px;
+    font-family: Arial;
+    line-height: 150px;
+
+    }
+
+#h1  {
+    background-color: black;
+  color: white;
+
+  }
+
